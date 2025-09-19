@@ -1,59 +1,117 @@
-# Welcome to Muhammad’s IT Professional Portfolio
+<!DOCTYPE html>
+<html lang="en">
 
-Hello! I'm Muhammad Ahmad, an inspiring Network and Cloud Engineer. (MORE INFO HERE)
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad's IT Professional Portfolio</title>
+    <style>
+        /* Add some simple styling */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
 
-In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT.
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
 
-Here are some of the key highlights from my portfolio:
+        section {
+            margin: 20px;
+        }
 
+        h2 {
+            color: #333;
+        }
 
-<h2>:trophy: Certifications and Training:</h2>
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
 
- <b>Information Technology Certifications</b>
+        a:hover {
+            text-decoration: underline;
+        }
 
-    
-- [CompTIA A+ 1101-1102](enterlinkhere.com)
-- [CompTIA Network+](enterlinkhere.com)
-- [CompTIA Security+](enterlinkhere.com)
-- [CourseCareers IT Professional]
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
 
-<h2>:mag: Networking Projects:</h2>
+        li {
+            margin: 10px 0;
+        }
+    </style>
+</head>
 
-- <b>Secure Cloud Network</b>    
-  - Enter information here.
+<body>
 
-- <b>Project 2</b>   
-  - Enter information here.
+    <header>
+        <h1>Welcome to Muhammad’s IT Professional Portfolio</h1>
+    </header>
 
-- <b>Project 3</b>  
-   - Enter information here
+    <section>
+        <p>Hello! I'm Muhammad Ahmad, an aspiring Network and Cloud Engineer. (MORE INFO HERE)</p>
+        <p>In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT.</p>
+        <p>Here are some of the key highlights from my portfolio:</p>
+    </section>
 
+    <section>
+        <h2>🏆 Certifications and Training:</h2>
+        <b>Information Technology Certifications</b>
+        <ul>
+            <li><a href="enterlinkhere.com">CompTIA A+ 1101-1102</a></li>
+            <li><a href="enterlinkhere.com">CompTIA Network+</a></li>
+            <li><a href="enterlinkhere.com">CompTIA Security+</a></li>
+            <li><a href="enterlinkhere.com">CourseCareers IT Professional</a></li>
+        </ul>
+    </section>
 
+    <section>
+        <h2>🔍 Networking Projects:</h2>
+        <ul>
+            <li><b>Secure Cloud Network</b><br> Enter information here.</li>
+            <li><b>Project 2</b><br> Enter information here.</li>
+            <li><b>Project 3</b><br> Enter information here.</li>
+        </ul>
+    </section>
 
+    <section>
+        <h2>🔍 Information Technology Projects:</h2>
+        <ul>
+            <li><b>osTicket (Help Desk Ticketing System)</b><br>
+                <a href="https://github.com/entermine">osTicket: Prerequisites and Installation</a><br>
+                <a href="https://github.com/entermine">osTicket: Post-Installation Configuration</a><br>
+                <a href="https://github.com/entermine">osTicket: Ticket Lifecycle Examples</a>
+            </li>
+            <li><b>Microsoft Azure (Active Directory & DNS Configuration)</b><br>
+                <a href="https://github.com/tmramble/Active-Directory-">Configuring On-premises Active Directory within Azure VMs</a><br>
+                <a href="https://github.com/tmramble/AzureNDS">Network Security Groups (NSGs) and Inspecting Network Protocols</a>
+            </li>
+        </ul>
+    </section>
 
-<h2>:mag: Information Technology Projects:</h2>
+    <section>
+        <h2>📚 Relevant Coursework:</h2>
+        <ul>
+            <li><b>Coursework 1</b><br><a href="https://github.com/entermine">Project Summary</a></li>
+            <li><b>Coursework 2</b><br> Project in Progress</li>
+            <li><b>Coursework 3</b><br><a href="https://github.com/entermine">Project Summary</a></li>
+        </ul>
+    </section>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/entermine)
-  - [osTicket: Post-Installation Configuration](https://github.com/entermine)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/entermine)
-- <b>Microsoft Azure (Active Directory & DNS Configuration)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/Active-Directory-)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
-    
-<h2>:books: Relevant Coursework:</h2>
+    <section>
+        <h2>Thank you for visiting my page!</h2>
+        <h2>I'm currently looking for a great team to join, and I would love to hear from you. Please use the link below to set up a time to chat. I promise you'll be glad you did.</h2>
+        <p><a href="link-to-schedule-chat">Set up a chat with me</a></p>
+    </section>
 
-- <b> Coursework 1</b>
-  - [Project Summary](https://github.com/entermine)
-    
-- <b> Courswork 2</b>
-  - [Project in Progress]
-    
-- <b>Coursework 3</b>
-  - [Project Summary](https://github.com/entermine)
+</body>
 
-
-<h2>Thank you for visiting my page!</h2>
-        <h2>I'm currently looking for a great team to join, and I would love to hear from you. Please use the link below to set up a time to chat. I promise you'll be glad you did.<h2>
-
-
+</html>
