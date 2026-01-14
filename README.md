@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muhammad! <br/><a href="https://github.com/joshmadakor1"> I'm an aspiring Network Engineer</a> <a href="https://www.linkedin.com(Enter my linkediin here)">
+<h1>Hi, I'm Muhammad! <br/><a href="https://github.com/enterminehere"> I'm an aspiring Network Engineer</a> <a href="https://www.linkedin.com(Enter my linkediin here)">
 
 <h2>👨‍💻 Key Projects:</h2>
 
