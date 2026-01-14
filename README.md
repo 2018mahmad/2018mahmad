@@ -13,7 +13,7 @@ Here are some of the key highlights from my portfolio:
 - [CompTIA A+ 1101-1102](enterlinkhere.com)
 - [CompTIA Network+](enterlinkhere.com)
 - [CompTIA Security+](enterlinkhere.com)
-- [Cisco Certified Network Associate (CCNA)]
+- Cisco Certified Network Associate (CCNA)
 - [CourseCareers IT Professional]
 
 <h2>:mag: Networking Projects:</h2>
