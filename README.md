@@ -10,9 +10,9 @@ Here are some of the key highlights from my portfolio:
  <b>Information Technology Certifications</b>
 
     
-- [CompTIA A+ 1101-1102](enterlinkhere.com)
-- [CompTIA Network+](enterlinkhere.com)
-- [CompTIA Security+](enterlinkhere.com)
+- [CompTIA A+ 1101-1102](https://www.credly.com/badges/56327619-5e79-496f-a526-2f0e011b21b7/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/fc808452-62dc-455b-a1e5-a3ed05e3e0f3/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/2d3f9fbd-9e77-4568-bcd5-4171953c2832/public_url)
 - Cisco Certified Network Associate (CCNA)
 - [CourseCareers IT Professional]
 
