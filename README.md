@@ -16,6 +16,17 @@ Here are some of the key highlights from my portfolio:
 - Cisco Certified Network Associate (CCNA)
 - [CourseCareers IT Professional]
 
+<h2>:mag: Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/entermine)
+  - [osTicket: Post-Installation Configuration](https://github.com/entermine)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/entermine)
+- <b>Microsoft Azure (Active Directory & DNS Configuration)</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/Active-Directory-)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
+
+
 <h2>:mag: Networking Projects:</h2>
 
 - <b>Secure Cloud Network</b>    
@@ -28,17 +39,6 @@ Here are some of the key highlights from my portfolio:
    - Enter information here
 
 
-
-
-<h2>:mag: Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/entermine)
-  - [osTicket: Post-Installation Configuration](https://github.com/entermine)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/entermine)
-- <b>Microsoft Azure (Active Directory & DNS Configuration)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/Active-Directory-)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
     
 <h2>:books: Relevant Coursework:</h2>
 
