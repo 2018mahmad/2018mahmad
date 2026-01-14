@@ -9,7 +9,7 @@
 
 <h2>Certifications:</h2>
 <ul>
-  <li><b>Google Cyber Security Professional Certification</b> (Completed a 6-month course)</li>
+  <li><b>Cisco Certified Network Associate (CCNA)</b>
   <li><b>CompTIA A+</li>
   <li><b>CompTIA Network +</b> (Proficient in Wireshark/TCPdump)</li>
   <li><b>HackTheBox Academy - Intro to Network Traffic Analysis</li>
