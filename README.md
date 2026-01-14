@@ -1,50 +1,59 @@
-<h1>Hi, I'm Muhammad! <br/><a href="https://github.com/enterminehere"> I'm an aspiring Network Engineer</a> <a href="https://www.linkedin.com(Enter my linkediin here)">
+# Welcome to Muhammad’s IT Professional Portfolio
 
-<h2>👨‍💻 Key Projects:</h2>
+Hi, I'm Muhammad Ahmad, a Cloud and Networking Engineering student passionate about IT. As I develop my skills in cloud computing, network management, and cybersecurity, I’m focused on building a strong foundation through hands-on projects and certifications. This portfolio highlights my work, including key projects and certifications that demonstrate my commitment to learning and growing in the IT field. I'm excited to apply my knowledge and contribute to the ever-evolving world of technology.
 
-  - Active Directory Home Lab(https://github.com/(entermyrepohere)
-  - Microsoft Azure
-  - Amazon AWS
-  - Network 
-
-<h2>Certifications:</h2>
-<ul>
-  <li><b>Cisco Certified Network Associate (CCNA)</b>
-  <li><b>CompTIA A+</li>
-  <li><b>CompTIA Network +</b> (Proficient in Wireshark/TCPdump)</li>
-  <li><b>HackTheBox Academy - Intro to Network Traffic Analysis</li>
-  <li><b>CourseCareers IT Professional</b></li>
-</ul>
-
-<h2>Currently Training:</h2>
-<ul>
-  <li><b>Master's of Science - Network and Cloud Engineering</li>
-</ul>
+Here are some of the key highlights from my portfolio:
 
 
-<h2> 🤳 Connect with me:</h2
+<h2>:trophy: Certifications and Training:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ <b>Information Technology Certifications</b>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+    
+- [CompTIA A+ 1101-1102](enterlinkhere.com)
+- [CompTIA Network+](enterlinkhere.com)
+- [CompTIA Security+](enterlinkhere.com)
+- [CourseCareers IT Professional]
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>:mag: Networking Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Secure Cloud Network</b>    
+  - Enter information here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Project 2</b>   
+  - Enter information here.
+
+- <b>Project 3</b>  
+   - Enter information here
+
+
+
+
+<h2>:mag: Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/entermine)
+  - [osTicket: Post-Installation Configuration](https://github.com/entermine)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/entermine)
+- <b>Microsoft Azure (Active Directory & DNS Configuration)</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/Active-Directory-)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
+    
+<h2>:books: Relevant Coursework:</h2>
+
+- <b> Coursework 1</b>
+  - [Project Summary](https://github.com/entermine)
+    
+- <b> Courswork 2</b>
+  - [Project in Progress]
+    
+- <b>Coursework 3</b>
+  - [Project Summary](https://github.com/entermine)
+
+
+<h2>Thank you for visiting my page!</h2>
+        <h2>I'm currently looking for a great team to join, and I would love to hear from you. Please use the link below to set up a time to chat. I promise you'll be glad you did.<h2>
+
+
+
+
