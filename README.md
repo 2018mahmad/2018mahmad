@@ -19,7 +19,7 @@ Here are some of the key highlights from my portfolio:
 <h2>:mag: Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/entermine)
+  - [osTicket: Prerequisites and Installation]((https://github.com/2018mahmad/osTicket-Prereqs.git)
   - [osTicket: Post-Installation Configuration](https://github.com/entermine)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/entermine)
 - <b>Microsoft Azure (Active Directory & DNS Configuration)</b>
