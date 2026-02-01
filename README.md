@@ -21,7 +21,7 @@ Here are some of the key highlights from my portfolio:
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/2018mahmad/osTicket-Prereqs.git)
   - [osTicket: Post-Installation Configuration](https://github.com/2018mahmad/osTicket-Post-install.git)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/entermine)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/2018mahmad/osTicket-ticket-lifestyle.git)
 - <b>Microsoft Azure (Active Directory & DNS Configuration)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/Active-Directory-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
