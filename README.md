@@ -52,9 +52,6 @@ Here are some of the key highlights from my portfolio:
   - [Project Summary](https://github.com/entermine)
 
 
-<h2>Thank you for visiting my page!</h2>
-        <h2>I'm currently looking for a great team to join, and I would love to hear from you. Please use the link below to set up a time to chat. I promise you'll be glad you did.<h2>
-
-
+<h2>Thank you for visiting my page. Please use the link below to view my Linkedin!!</h2>
 
 
