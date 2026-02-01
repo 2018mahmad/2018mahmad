@@ -24,7 +24,7 @@ Here are some of the key highlights from my portfolio:
   - [osTicket: Ticket Lifecycle Examples](https://github.com/2018mahmad/osTicket-ticket-lifestyle.git)
 - <b>Microsoft Azure (Active Directory & DNS Configuration)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/none)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/none)
 
 
 <h2>:mag: Networking Projects:</h2>
