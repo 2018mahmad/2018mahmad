@@ -43,13 +43,13 @@ Here are some of the key highlights from my portfolio:
 <h2>:books: Relevant Coursework:</h2>
 
 - <b> Coursework 1</b>
-  - [Project Summary](https://github.com/entermine)
+  - [Project in Progress](https://github.com/entermine)
     
 - <b> Courswork 2</b>
   - [Project in Progress]
     
 - <b>Coursework 3</b>
-  - [Project Summary](https://github.com/entermine)
+  - [Project in Progress](https://github.com/entermine)
 
 
 <h2>Thank you for visiting my page. Please use the link below to view my LinkedIn!</h2>
