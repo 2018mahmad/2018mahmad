@@ -54,4 +54,7 @@ Here are some of the key highlights from my portfolio:
 
 <h2>Thank you for visiting my page. Please use the link below to view my LinkedIn!</h2>
 
+<a href="linkedin.com/in/muhammad-ahmad-7a3b601b3">
+  <img align="left" alt="Muhammad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
