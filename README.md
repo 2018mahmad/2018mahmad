@@ -30,13 +30,13 @@ Here are some of the key highlights from my portfolio:
 <h2>:mag: Networking Projects:</h2>
 
 - <b>Secure Cloud Network</b>    
-  - Enter information here.
+  - [Project In Progress].
 
 - <b>Project 2</b>   
-  - Enter information here.
+  - [Project In Progress].
 
 - <b>Project 3</b>  
-   - Enter information here
+   - [Project In Progress].
 
 
     
