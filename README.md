@@ -16,6 +16,8 @@ Here are some of the key highlights from my portfolio:
 - [Cisco Certified Network Associate (CCNA)](https://cp.certmetrics.com/cisco/en/public/verify/credential/7608172bc3c3407fab84b3cbee422cd2)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a07b28b7-ea55-47f4-a696-ad2cf998c083/public_url)
 - [CCNA Automation](https://cp.certmetrics.com/cisco/en/public/verify/credential/c535b3d960cd408491cade1bc1fdcb1b)
+- [CCNA Cybersecurity]()
+- [CompTIA Cloud+](https://cp.certmetrics.com/comptia/en/public/verify/credential/fbe8f3c65b734823b2c3bc647b02f3c4)
 
 <h2>:mag: Information Technology Projects:</h2>
 
